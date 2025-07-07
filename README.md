@@ -15,7 +15,8 @@ This repository contains code, data processing scripts, and results from a stati
   The dataset used in this project is not publicly available in this repository due to its size and licensing conditions.  
   If you are interested in accessing the data for academic or research purposes, please contact:  
   **Mendy Fishman** — [mendyfishman@gmail.com](mailto:mendyfishman@gmail.com)
-
+  **or in google drive** — https://drive.google.com/file/d/1OapafNlOulm7N0ISNqae4sWIj2w2s9IA/view?usp=drive_link
+  
 ## Methods
 
 ### Regression Models
